@@ -1,0 +1,2 @@
+hello main
+2 ci setr yazdim 
